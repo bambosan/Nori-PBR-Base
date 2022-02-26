@@ -2,8 +2,8 @@
 	"format_version": 2,
 	"metadata": {
 		"authors": [ "bambosan" ],
-		"url": "https://github.com/Mcbamboo/Nori-Shaders-BE",
-		"license": "GNU General Public License v3.0"
+		"url": "https://github.com/bambosan/Nori-PBR-Base",
+		"license": "MIT License"
 	},
 	"header": {
 		"name": "Nori Shaders PBR Base",

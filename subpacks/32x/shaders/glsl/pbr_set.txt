@@ -1,1 +1,0 @@
-const float invtres = 1.0 / 32.0;

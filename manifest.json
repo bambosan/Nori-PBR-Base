@@ -7,14 +7,14 @@
 	},
 	"header": {
 		"name": "Nori Shaders PBR Base",
-		"description": "base pbr texture also toggle to enable pbr feature on nori shader",
+		"description": "base pbr texture also toggle to enable pbr feature on nori shader\ncurrently support version of mcbe up to 1.18.12.01",
 		"uuid": "bfd30669-93e8-495d-a369-d54e0d75c31d",
 		"version": [0, 0, 1],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [
 		{
-			"description": "base pbr texture also toggle to enable pbr feature on nori shader",
+			"description": "base pbr texture also toggle to enable pbr feature on nori shader\ncurrently support version of mcbe up to 1.18.12.01",
 			"type": "resources",
 			"uuid": "8e85b38a-425d-4c04-86f8-459106997ebb",
 			"version": [0, 0, 1]
